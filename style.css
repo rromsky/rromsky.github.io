@@ -1,0 +1,159 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    background-color: #E5E5E5;
+}
+.about{
+    
+}
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1280px;
+    height: 1280px;
+    margin: auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+.main div{
+    padding: auto;
+}
+.right_side{
+    font-family: "Montserrat", sans-serif;
+    padding: 105px 90px;
+    background-color: #ffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+.left_side{
+    background-color:  #1E2939;
+}
+.myPhoto{
+    height: 370px;
+    width: 370px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.contacts,
+.skills,
+.sSkills{
+    margin-left: 50px;
+}
+
+.close-link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none; 
+    color: #FB6D3A;
+}
+
+.TheName{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-top: 20px;
+}
+.Position{
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+}
+.desctription{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.title-right-side{
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+color: #000000;
+}
+.sub-title-right-side{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.right_side ul{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.edu,
+.projects,
+.work{
+    padding-top: 25px;
+}
+
+.PjLinks{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color:#595959;
+    font-weight: 700;
+}
+
+.University{
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+}
+.since{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.contacts{
+    margin-bottom: 50px;
+}
+.lmm-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.contact-link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #5D6571;
+}
+
+.symbols_CE{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 5px;
+}
+
+.skill-list{
+    padding: 0;
+    margin-left: 15px;
+}
+.skill-list li{
+    color: #FB6D3A;
+}
+.skill-list-item{
+    color: white;
+}
