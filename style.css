@@ -104,6 +104,10 @@ color: #000000;
     font-weight: 700;
 }
 
+.PjLinks:hover{
+    color: #145454;
+}
+
 .University{
 font-style: normal;
 font-weight: 700;
